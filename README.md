@@ -1,5 +1,10 @@
 ## Hi there 👋
 I'm Kevin and a passionate computer science student interested in Frontend development, a basic understanding of backend development.
+
+
+
+>💬 The universe doesn't allow perfection.<br/>
+>Stephen Hawking
 <!--
 **KevinKurkut/KevinKurkut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
