@@ -3,8 +3,7 @@ I'm Kevin and a passionate computer science student interested in Frontend devel
 
 
 
->💬 The universe doesn't allow perfection.<br/>
->Stephen Hawking
+>💬 You can ship code you don't understand. You can't debug code you don't understand
 <!--
 **KevinKurkut/KevinKurkut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
