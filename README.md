@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm Kevin and a passionate computer science student interested in Frontend development, a basic understanding of backend development.
 <!--
 **KevinKurkut/KevinKurkut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
